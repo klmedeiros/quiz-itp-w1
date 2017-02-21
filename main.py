@@ -52,6 +52,8 @@ def remove_Es(a_string):
         return a_string.replace('E','')
     else:
         return a_string
+    
+    #i see how to fix 3 now, that you need to put it in a new string value and check it for E and e. i dont' have time to implement.
 
 
 # Question 4
